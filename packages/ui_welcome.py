@@ -16,7 +16,7 @@ class Ui_WelcomeScreen(object):
         self.lbl_bg_image_id00 = QtWidgets.QLabel(Form)
         self.lbl_bg_image_id00.setGeometry(QtCore.QRect(0, 0, 1024, 600))    
 
-        self.gif_welcome_id00 = QMovie('images/background/k-man-screen.gif')
+        self.gif_welcome_id00 = QMovie('images/background/racha_screen.gif')
 
         
 
