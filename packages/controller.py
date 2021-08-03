@@ -62,6 +62,7 @@ class Controller:
         self.usermenuScreen.show()
         self.Screen2.close()
         self.WelcomeScreen.close()
+        self.usermenuScreen.close()
         
         self.usermenuScreen.btn_option1.mousePressEvent = self.set_backTo1        
         self.usermenuScreen.btn_option2.mousePressEvent = self.set_backTo1
